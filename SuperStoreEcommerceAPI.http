@@ -1,0 +1,6 @@
+@SuperStoreEcommerceAPI_HostAddress = http://localhost:5056
+
+GET {{SuperStoreEcommerceAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
